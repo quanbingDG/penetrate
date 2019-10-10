@@ -40,6 +40,3 @@ class procese:
 			if x in i:
 				return str(i)
 		raise ValueError('the x value is out of the unique_bins, please check your split_bins')
-
-
-

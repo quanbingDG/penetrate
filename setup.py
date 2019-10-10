@@ -9,7 +9,6 @@
 @contact: quanbinks@sina.com
 """
 
-
 from setuptools import setup
 
 setup(
